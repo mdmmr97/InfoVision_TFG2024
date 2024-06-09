@@ -1,0 +1,6 @@
+@BackTFG2024_HostAddress = http://localhost:5142
+
+GET {{BackTFG2024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
