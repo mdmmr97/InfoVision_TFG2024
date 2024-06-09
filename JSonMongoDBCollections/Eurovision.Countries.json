@@ -1,0 +1,1999 @@
+[{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac11a"
+  },
+  "country": {
+    "country_id": "al",
+    "country_name": "Albania"
+  },
+  "maps": "https://cdn.britannica.com/77/183577-004-36BBA19E/World-Data-Locator-Map-Albania.jpg?s=1500x700&q=85",
+  "capital": "Tirana",
+  "area": 28748,
+  "population": 2877797,
+  "participations": 21,
+  "debut": 2004,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://rivieraalbanesa.com/wp-content/uploads/2023/03/Capital-Albania-1024x681.jpg",
+    "https://media.traveler.es/photos/6137671d652b2e41f8dce3d4/master/w_1600%2Cc_limit/167000.jpg",
+    "https://static1.evcdn.net/images/reduction/413980_w-3840_h-2160_q-70_m-crop.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ALBANIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac11b"
+  },
+  "country": {
+    "country_id": "ad",
+    "country_name": "Andorra"
+  },
+  "maps": "https://cdn.britannica.com/80/183580-050-27967853/World-Data-Locator-Map-Andorra.jpg",
+  "capital": "Andorra la Vella",
+  "area": 468,
+  "population": 77265,
+  "participations": 6,
+  "debut": 2004,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://mediaim.expedia.com/destination/2/40fb4f1cc18151717167e3b334236a09.jpg",
+    "https://www.hogarmania.com/archivos/202212/que-ver-en-andorra-6-lugares-que-no-te-puedes-perder-portada-1280x720x80xX.jpg",
+    "https://tips.mnstatic.com/wp-content/uploads/2022/12/c57a40c9568b8631c071486be22e8bde-scaled.jpg?quality=60"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ANDORRA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac11c"
+  },
+  "country": {
+    "country_id": "am",
+    "country_name": "Armenia"
+  },
+  "maps": "https://cdn.britannica.com/84/183584-050-1C3032D2/World-Data-Locator-Map-Armenia.jpg",
+  "capital": "Yerevan",
+  "area": 29743,
+  "population": 2963243,
+  "participations": 17,
+  "debut": 2006,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://www.lavozarmenia.com/media/lavozarmenia/images/2023/07/26/2023072610190197552.jpg",
+    "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/05/19/2-armenia.jpeg",
+    "https://media.traveler.es/photos/61377122fd8ea62e2db31a66/master/w_1600%2Cc_limit/129630.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ARMENIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac120"
+  },
+  "country": {
+    "country_id": "by",
+    "country_name": "Belarus"
+  },
+  "maps": "https://cdn.britannica.com/93/183593-050-9C3CD06D/World-Data-Locator-Map-Belarus.jpg",
+  "capital": "Minsk",
+  "area": 207600,
+  "population": 9408400,
+  "participations": 17,
+  "debut": 2004,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://content.r9cdn.net/rimg/dimg/b6/c4/2a4d0e8a-city-9524-166a64199e6.jpg?width=1366&height=768&xhint=1361&yhint=1023&crop=true",
+    "https://estaticos-cdn.prensaiberica.es/clip/62437f62-9332-4fe9-9576-9d2004ff86a2_source-aspect-ratio_default_0.jpg",
+    "https://static.vecteezy.com/system/resources/previews/027/104/274/non_2x/autumn-river-landscape-in-belarus-or-european-part-of-russia-at-sunset-with-sun-shining-over-blue-water-at-sunrise-nature-on-a-sunny-morning-with-woods-and-orange-foliage-o-free-photo.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-BELARUS-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac121"
+  },
+  "country": {
+    "country_id": "be",
+    "country_name": "Belgium"
+  },
+  "maps": "https://cdn.britannica.com/94/183594-050-276C8A19/World-Data-Locator-Map-Belgium.jpg",
+  "capital": "Brussels",
+  "area": 30528,
+  "population": 11589623,
+  "participations": 67,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1986,
+      "city": "Bergen",
+      "artist": "Sandra Kim",
+      "song": "J'aime la vie",
+      "points": 176
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1987,
+      "city": "Brussels"
+    }
+  ],
+  "images": [
+    "https://www.brusselsairlines.com/aircore/cache/images/61415/eyJpZGVudGlmaWVyIjoyNzcyLCJ0eXBlIjoiYXNzZXQifQ==.webp",
+    "https://media.cntraveller.com/photos/65cddd8d41f88d5b4494e3ee/16:9/w_2560%2Cc_limit/GettyImages-685886450.jpg",
+    "https://a.cdn-hotels.com/gdcs/production193/d445/4ab4a2fb-02fb-46ab-a551-94ab3712772a.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-BELGIUM-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac122"
+  },
+  "country": {
+    "country_id": "ba",
+    "country_name": "Bosnia & Herzegovina"
+  },
+  "maps": "https://cdn.britannica.com/00/183600-050-C5D72A2B/World-Data-Locator-Map-Bosnia-and-Herzegovina.jpg",
+  "capital": "Sarajevo",
+  "area": 51209,
+  "population": 3280819,
+  "participations": 19,
+  "debut": 1993,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://viajes.nationalgeographic.com.es/medio/2018/10/19/zuta-tabija_cd25161b_1600x1071.jpg",
+    "https://www.balkanprime.tours/public/cache/gallery-image-bpt-bih-5-1559557167-1280x768.jpg",
+    "https://d2l4159s3q6ni.cloudfront.net/resize/1440x800/filters:max_age(2604800):quality(85)/s3/dam/photos/5c/d2/c6/f7/cddb061b57e759c56d7dfbeff6b44c7320e80d57ecad0e8ac6c748ee.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-BOSNIAHERZEGOVINA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac123"
+  },
+  "country": {
+    "country_id": "bg",
+    "country_name": "Bulgaria"
+  },
+  "maps": "https://cdn.britannica.com/04/183604-050-CF7EC844/World-Data-Locator-Map-Bulgaria.jpg",
+  "capital": "Sofia",
+  "area": 110993,
+  "population": 7000039,
+  "participations": 15,
+  "debut": 2005,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://www.gulliveria.com/wp-content/uploads/2019/01/sofia-iglesiadesantasofia.jpg",
+    "https://static.euronews.com/articles/stories/04/90/84/78/1440x810_cmsv2_8f7a43de-f6d3-5020-8317-04951f11bae5-4908478.jpg",
+    "https://images.lonelyplanetitalia.it/static/places/bulgaria-47.jpg?q=90&p=2400%7C1350%7Cmax&s=26d80c10198718d31e3d1adaeb347bb2"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-BULGARIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac124"
+  },
+  "country": {
+    "country_id": "hr",
+    "country_name": "Croatia"
+  },
+  "maps": "https://cdn.britannica.com/22/183622-050-BBE243E2/World-Data-Locator-Map-Croatia.jpg",
+  "capital": "Zagreb",
+  "area": 56594,
+  "population": 4087843,
+  "participations": 30,
+  "debut": 1993,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://miro.medium.com/v2/resize:fit:1358/1*fB-wmQyz24TqGCL6BUad6w.jpeg",
+    "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/07/16114810/Croacia-2.jpg",
+    "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2011/01/02/4720.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-CROATIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac129"
+  },
+  "country": {
+    "country_id": "fi",
+    "country_name": "Finland"
+  },
+  "maps": "https://cdn.britannica.com/41/183641-050-0EF5ECA9/World-Data-Locator-Map-Finland.jpg",
+  "capital": "Helsinki",
+  "area": 338424,
+  "population": 5540720,
+  "participations": 58,
+  "debut": 1961,
+  "victories": [
+    {
+      "year": 2006,
+      "city": "Athens",
+      "artist": "Lordi",
+      "song": "Hard Rock Hallelujah",
+      "points": 292
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2007,
+      "city": "Helsinki"
+    }
+  ],
+  "images": [
+    "https://world-habitat.org/wp-content/uploads/2022/10/helsinki-finland.jpg",
+    "https://iamlostandfound.com/wp-content/uploads/2022/02/cmain.jpg",
+    "https://cdn.outsideonline.com/wp-content/uploads/2023/03/finland-lead-h.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-FINLAND-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac134"
+  },
+  "country": {
+    "country_id": "lt",
+    "country_name": "Lithuania"
+  },
+  "maps": "https://cdn.britannica.com/92/183692-050-3EDDD082/World-Data-Locator-Map-Lithuania.jpg",
+  "capital": "Vilnius",
+  "area": 65300,
+  "population": 2794090,
+  "participations": 25,
+  "debut": 1994,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://cdn.britannica.com/26/143426-050-A3F11FE1/town-section-Vilnius-Lithuania.jpg",
+    "https://workinlithuania.com/app/uploads/2022/10/Merkine-Observation-Tower-%C2%A9Andrius-Aleksandravicius_Lithuania-Travel-scaled.jpg",
+    "https://ctdots.eu/wp-content/uploads/2021/08/aukstaitija-national-park-lithuania.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-LITHUANIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac139"
+  },
+  "country": {
+    "country_id": "me",
+    "country_name": "Montenegro"
+  },
+  "maps": "https://cdn.britannica.com/12/183712-050-A95EF593/World-Data-Locator-Map-Montenegro.jpg",
+  "capital": "Podgorica",
+  "area": 13812,
+  "population": 622359,
+  "participations": 12,
+  "debut": 2007,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://www.viajaenblog.com/wp-content/uploads/2019/06/que-ver-en-podgorica-puente.jpg",
+    "https://apiimg.iberostar.com/uploads/image/33069/image.jpeg",
+    "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/11/13/istock-954180134.jpeg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-MONTENEGRO-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac140"
+  },
+  "country": {
+    "country_id": "ro",
+    "country_name": "Romania"
+  },
+  "maps": "https://cdn.britannica.com/40/183740-050-7729E435/World-Data-Locator-Map-Romania.jpg",
+  "capital": "Bucharest",
+  "area": 238397,
+  "population": 19286123,
+  "participations": 24,
+  "debut": 1994,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://romaniatourism.com/images/bucharest/bucharest-savings-bank.jpg",
+    "https://romaniatourstore.com/wp-content/uploads/2017/09/Retezat-Mountains-Romania.jpg",
+    "https://hereihike.com/wp-content/uploads/2020/06/Romanias-National-Parks-1.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ROMANIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac143"
+  },
+  "country": {
+    "country_id": "rs",
+    "country_name": "Serbia"
+  },
+  "maps": "https://cdn.britannica.com/51/183751-050-CFC152F0/World-Data-Locator-Map-Serbia.jpg",
+  "capital": "Belgrade",
+  "area": 77474,
+  "population": 6963764,
+  "participations": 17,
+  "debut": 2007,
+  "victories": [
+    {
+      "year": 2007,
+      "city": "Helsinki",
+      "artist": "Marija Šerifović",
+      "song": "Molitva",
+      "points": 268
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2008,
+      "city": "Belgrade"
+    }
+  ],
+  "images": [
+    "https://ychef.files.bbci.co.uk/2000x1499/p0btlm66.jpeg",
+    "https://s3-cdn.designerjourneys.com/blog/wp-content/uploads/2021/03/11080557/erdin-akcinar-K4cNBvyiHsk-unsplash-2-scaled.jpg",
+    "https://media.cnn.com/api/v1/images/stellar/prod/180427174555-tara2.jpg?q=w_3000,h_1688,x_0,y_0,c_fill"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SERBIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac145"
+  },
+  "country": {
+    "country_id": "sk",
+    "country_name": "Slovakia"
+  },
+  "maps": "https://cdn.britannica.com/56/183756-050-20656B4F/World-Data-Locator-Map-Slovakia.jpg",
+  "capital": "Bratislava",
+  "area": 18521,
+  "population": 5450421,
+  "participations": 7,
+  "debut": 1994,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/03/18/319978.jpg",
+    "https://www.thenaturaladventure.com/wp-content/uploads/2019/10/lakes-and-valeys-of-slovakian-alps-11-e1572277873939.jpg",
+    "https://media.brate.com/images/europa/slowacja/slowacja-natura.jpeg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SLOVAKIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac14a"
+  },
+  "country": {
+    "country_id": "tr",
+    "country_name": "Turkey"
+  },
+  "maps": "https://cdn.britannica.com/78/183778-050-A6717D62/World-Data-Locator-Map-Turkey.jpg",
+  "capital": "Ankara",
+  "area": 783562,
+  "population": 83154997,
+  "participations": 34,
+  "debut": 1975,
+  "victories": [
+    {
+      "year": 2003,
+      "city": "Riga",
+      "artist": "Sertab Erener",
+      "song": "Everyway That I Can",
+      "points": 167
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2004,
+      "city": "Istanbul"
+    }
+  ],
+  "images": [
+    "https://www.civitatis.com/blog/wp-content/uploads/2024/03/shutterstock_291252509-1920x1248.jpg",
+    "https://www.istanbulturkeytravel.com/wp-content/uploads/2020/08/x2.jpg",
+    "https://idsb.tmgrup.com.tr/ly/uploads/images/2020/06/18/41564.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-TÜRKİYE-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac14d"
+  },
+  "country": {
+    "country_id": "yu",
+    "country_name": "Yugoslavia"
+  },
+  "maps": "https://saeeg.org/wp-content/uploads/2023/01/VALORI-LA-EX-YUGOSLAVIA.png",
+  "capital": "Belgrade",
+  "area": 255804,
+  "population": 23900000,
+  "participations": 27,
+  "debut": 1961,
+  "victories": [
+    {
+      "year": 1989,
+      "city": "Lausanne",
+      "artist": "Riva",
+      "song": "Rock Me",
+      "points": 137
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1990,
+      "city": "Zagreb"
+    }
+  ],
+  "images": [
+    "https://okdiario.com/img/2022/08/02/belgrado-serbia-yugoslavia.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-YUGOSLAVIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac11d"
+  },
+  "country": {
+    "country_id": "au",
+    "country_name": "Australia"
+  },
+  "maps": "https://cdn.britannica.com/86/183586-050-A05EF881/World-Data-Locator-Map-Australia.jpg",
+  "capital": "Canberra",
+  "area": 7692024,
+  "population": 25687041,
+  "participations": 10,
+  "debut": 2015,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://media.traveler.es/photos/613766512a0f25a763b1a2dc/master/w_1600%2Cc_limit/174130.jpg",
+    "https://static.nationalgeographic.es/files/styles/image_3200/public/2768.600x450.jpg?w=1600&h=900",
+    "https://www.civitatis.com/blog/wp-content/uploads/2020/02/blog-australia.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-AUSTRALIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac11f"
+  },
+  "country": {
+    "country_id": "az",
+    "country_name": "Azerbaijan"
+  },
+  "maps": "https://cdn.britannica.com/88/183588-050-2571D476/World-Data-Locator-Map-Azerbaijan.jpg",
+  "capital": "Baku",
+  "area": 86600,
+  "population": 10139177,
+  "participations": 17,
+  "debut": 2008,
+  "victories": [
+    {
+      "year": 2011,
+      "city": "Düsseldorf",
+      "artist": "Ell & Nikki",
+      "song": "Running Scared",
+      "points": 221
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2012,
+      "city": "Baku"
+    }
+  ],
+  "images": [
+    "https://mediaim.expedia.com/destination/1/3763f252b42a71367e45b994ba148763.jpg",
+    "https://d1bvpoagx8hqbg.cloudfront.net/originals/experiencia-en-baku-azerbaiyan-por-mariam-f8c63d04035e4a92adcb90dcbd94de49.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bibi_Heybet_Moscue_%28Baku%29.jpg/1200px-Bibi_Heybet_Moscue_%28Baku%29.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-AZERBAIJAN-BLACK-v2.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac128"
+  },
+  "country": {
+    "country_id": "ee",
+    "country_name": "Estonia"
+  },
+  "maps": "https://cdn.britannica.com/37/183637-050-17EC32FA/World-Data-Locator-Map-Estonia.jpg",
+  "capital": "Tallinn",
+  "area": 45227,
+  "population": 1326535,
+  "participations": 30,
+  "debut": 1994,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/7b/12/15/with-newfound-confidence.jpg?w=1400&h=1400&s=1",
+    "https://media.traveler.es/photos/646e2d5b87d0dd089a81e124/16:9/w_2560%2Cc_limit/GettyImages-1348141759.jpg",
+    "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/08/10/tallin-estonia.jpeg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ESTONIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac12d"
+  },
+  "country": {
+    "country_id": "gr",
+    "country_name": "Greece"
+  },
+  "maps": "https://cdn.britannica.com/50/183650-050-BB62BE50/World-Data-Locator-Map-Greece.jpg",
+  "capital": "Athens",
+  "area": 131957,
+  "population": 10724599,
+  "participations": 45,
+  "debut": 1974,
+  "victories": [
+    {
+      "year": 2005,
+      "city": "Kyiv",
+      "artist": "Helena Paparizou",
+      "song": "My Number One",
+      "points": null
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2006,
+      "city": "Athens"
+    }
+  ],
+  "images": [
+    "https://www.msccruceros.es/-/media/global-contents/destinations/ports/greece/piraeus/cruise-to-piraeus-greece.jpg?bc=transparent&as=1&dmc=0&iar=0&mh=1395&mw=2460&sc=0&thn=0&udi=0&hash=83060CD535D3152809A062E7D2400E10",
+    "https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/06/02/20/istock-833264986.jpg",
+    "https://deih43ym53wif.cloudfront.net/shipwreck-bay-greece-shutterstock_553805137_d33ced5300.jpeg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-GREECE-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac12f"
+  },
+  "country": {
+    "country_id": "is",
+    "country_name": "Iceland"
+  },
+  "maps": "https://cdn.britannica.com/64/183664-050-A9FC09E1/World-Data-Locator-Map-Iceland.jpg",
+  "capital": "Reykjavík",
+  "area": 103000,
+  "population": 364134,
+  "participations": 37,
+  "debut": 1986,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://cdn.britannica.com/71/73371-050-9DFAEC1E/Reykjavik-Iceland.jpg",
+    "https://images.prismic.io/visiticeland/13eed82e-ff5b-4f56-95aa-88323a583a67_Kirkjufell_Northern%20Lights_3000.jpg?ixlib=gatsbyFP&auto=compress%2Cformat&fit=max&w=3000&h=2000",
+    "https://www.travelandleisure.com/thmb/JwtBZm-8pM7NfGQPXwbb_Flyd4w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TAL-jorsardalur-haifoss-waterfall-TODOICELAND0823-97c15afc2c594649931c23f2de714043.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ICELAND-BLACK-v2.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac130"
+  },
+  "country": {
+    "country_id": "ie",
+    "country_name": "Ireland"
+  },
+  "maps": "https://cdn.britannica.com/69/183669-050-B5A09DA4/World-Data-Locator-Map-Ireland.jpg",
+  "capital": "Dublin",
+  "area": 70273,
+  "population": 4921500,
+  "participations": 58,
+  "debut": 1965,
+  "victories": [
+    {
+      "year": 1970,
+      "city": "Amsterdam",
+      "artist": "Dana",
+      "song": "All Kinds of Everything",
+      "points": 32
+    },
+    {
+      "year": 1980,
+      "city": "The Hague",
+      "artist": "Johnny Logan",
+      "song": "What's Another Year",
+      "points": 143
+    },
+    {
+      "year": 1987,
+      "city": "Brussels",
+      "artist": "Johnny Logan",
+      "song": "Hold Me Now",
+      "points": 172
+    },
+    {
+      "year": 1992,
+      "city": "Malmö",
+      "artist": "Linda Martin",
+      "song": "Why Me?",
+      "points": 155
+    },
+    {
+      "year": 1993,
+      "city": "Millstreet",
+      "artist": "Niamh Kavanagh",
+      "song": "In Your Eyes",
+      "points": 187
+    },
+    {
+      "year": 1994,
+      "city": "Dublin",
+      "artist": "Paul Harrington & Charlie McGettigan",
+      "song": "Rock 'n' Roll Kids",
+      "points": 226
+    },
+    {
+      "year": 1996,
+      "city": "Oslo",
+      "artist": "Eimear Quinn",
+      "song": "The Voice",
+      "points": 162
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1971,
+      "city": "Dublin"
+    },
+    {
+      "year": 1981,
+      "city": "Dublin"
+    },
+    {
+      "year": 1988,
+      "city": "Dublin"
+    },
+    {
+      "year": 1993,
+      "city": "Millstreet"
+    },
+    {
+      "year": 1994,
+      "city": "Dublin"
+    },
+    {
+      "year": 1995,
+      "city": "Dublin"
+    },
+    {
+      "year": 1997,
+      "city": "Dublin"
+    }
+  ],
+  "images": [
+    "https://hips.hearstapps.com/hmg-prod/images/dublin-1520287201.jpg?resize=2048:*",
+    "https://www.cein.eu/wp-content/uploads/2017/10/Ireland-Countryside-3.jpg",
+    "https://www.civitatis.com/blog/wp-content/uploads/2020/12/que-ver-irlanda.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-IRELAND-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac132"
+  },
+  "country": {
+    "country_id": "it",
+    "country_name": "Italy"
+  },
+  "maps": "https://cdn.britannica.com/72/183672-050-EF5D9EB1/World-Data-Locator-Map-Italy.jpg",
+  "capital": "Rome",
+  "area": 301340,
+  "population": 60359546,
+  "participations": 51,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1964,
+      "city": "Copenhagen",
+      "artist": "Gigliola Cinquetti",
+      "song": "Non ho l'età",
+      "points": 49
+    },
+    {
+      "year": 1990,
+      "city": "Zagreb",
+      "artist": "Toto Cutugno",
+      "song": "Insieme: 1992",
+      "points": 149
+    },
+    {
+      "year": 2021,
+      "city": "Rotterdam",
+      "artist": "Måneskin",
+      "song": "Zitti e buoni",
+      "points": 524
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1965,
+      "city": "Naples"
+    },
+    {
+      "year": 1991,
+      "city": "Rome"
+    },
+    {
+      "year": 2022,
+      "city": "Turin"
+    }
+  ],
+  "images": [
+    "https://www.enroma.com/wp-content/uploads/2021/07/Coliseo-Romano.jpg",
+    "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2022/10/07/friuli-venezia-giulia-italia.jpeg",
+    "https://media.traveler.es/photos/62fe1ebd47832420e24c36d8/16:9/w_2580,c_limit/SurItalia_Positano1-Global.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ITALY-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac133"
+  },
+  "country": {
+    "country_id": "lv",
+    "country_name": "Latvia"
+  },
+  "maps": "https://cdn.britannica.com/86/183686-050-20A00891/World-Data-Locator-Map-Latvia.jpg",
+  "capital": "Riga",
+  "area": 64589,
+  "population": 1906800,
+  "participations": 25,
+  "debut": 2000,
+  "victories": [
+    {
+      "year": 2002,
+      "city": "Tallinn",
+      "artist": "Marie N",
+      "song": "I Wanna",
+      "points": 176
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2003,
+      "city": "Riga"
+    }
+  ],
+  "images": [
+    "https://a.cdn-hotels.com/gdcs/production19/d1332/a20481e0-f585-11e8-b7e0-0242ac110002.jpg",
+    "https://i.natgeofe.com/n/d38bf30e-ff73-4e77-8d2b-2f309819a531/latvia_2a9ct2f_hr.jpg",
+    "https://www.latvia.travel/sites/default/files/styles/mobile_promo/public/media_image/article/baltic_pictures-vs-4168.jpg?itok=vIy4iRnh"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-LATVIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac13d"
+  },
+  "country": {
+    "country_id": "no",
+    "country_name": "Norway"
+  },
+  "maps": "https://cdn.britannica.com/26/183726-050-6D72DC3C/World-Data-Locator-Map-Norway.jpg",
+  "capital": "Oslo",
+  "area": 323802,
+  "population": 5367580,
+  "participations": 63,
+  "debut": 1960,
+  "victories": [
+    {
+      "year": 1985,
+      "city": "Gothenburg",
+      "artist": "Bobbysocks",
+      "song": "La det swinge",
+      "points": 123
+    },
+    {
+      "year": 1995,
+      "city": "Dublin",
+      "artist": "Secret Garden",
+      "song": "Nocturne",
+      "points": 148
+    },
+    {
+      "year": 2009,
+      "city": "Moscow",
+      "artist": "Alexander Rybak",
+      "song": "Fairytale",
+      "points": 387
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1986,
+      "city": "Bergen"
+    },
+    {
+      "year": 1996,
+      "city": "Oslo"
+    },
+    {
+      "year": 2010,
+      "city": "Oslo"
+    }
+  ],
+  "images": [
+    "https://fotografias.larazon.es/clipping/cmsimages01/2023/08/01/D09289B4-6881-4AEE-AEFA-0CFFBFDE7D0E/vista-panoramica-aerea-opera-oslo-nuevo-barrio-negocios-oslo-noruega_98.jpg?crop=5464,3074,x0,y287&width=1900&height=1069&optimize=low&format=webply",
+    "https://res.cloudinary.com/simpleview/image/upload/v1613600936/clients/norway/Urnes_Stave_Church_luster_fjord_Norway_photo_Thomas_Morel_646b0cd1-2926-4b68-867e-8d4a6abba6b2.jpg",
+    "https://www.lugaresdeaventura.com/sites/default/files/inline-images/FOTOEXTRA_7lugares_noruega_soldemedianoche.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-NORWAY-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac141"
+  },
+  "country": {
+    "country_id": "ru",
+    "country_name": "Russia"
+  },
+  "maps": "https://cdn.britannica.com/41/183741-050-0FE7D7E8/World-Data-Locator-Map-Russia.jpg",
+  "capital": "Moscow",
+  "area": 17098242,
+  "population": 146171015,
+  "participations": 24,
+  "debut": 1994,
+  "victories": [
+    {
+      "year": 2008,
+      "city": "Belgrade",
+      "artist": "Dima Bilan",
+      "song": "Believe",
+      "points": 272
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2009,
+      "city": "Moscow"
+    }
+  ],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg",
+    "https://nws.ams3.cdn.digitaloceanspaces.com/content/5A33D1474A94741A998AA72B8C722C9B/1007-2048.webp",
+    "https://wilderness-society.org/wp-content/uploads/2018/02/russia-14482.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-RUSSIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac144"
+  },
+  "country": {
+    "country_id": "cs",
+    "country_name": "Serbia & Montenegro"
+  },
+  "maps": "https://cdn.britannica.com/13/62513-004-05F0FF6F/Serbia-Montenegro.jpg",
+  "capital": "Belgrade",
+  "area": 102350,
+  "population": 10600000,
+  "participations": 3,
+  "debut": 2004,
+  "victories": [],
+  "hosted": [],
+  "images": [],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SERBIAMONTENEGRO-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac148"
+  },
+  "country": {
+    "country_id": "se",
+    "country_name": "Sweden"
+  },
+  "maps": "https://cdn.britannica.com/67/183767-050-23D72392/World-Data-Locator-Map-Sweden.jpg",
+  "capital": "Stockholm",
+  "area": 450295,
+  "population": 10327589,
+  "participations": 64,
+  "debut": 1958,
+  "victories": [
+    {
+      "year": 1974,
+      "city": "Brighton",
+      "artist": "ABBA",
+      "song": "Waterloo",
+      "points": 24
+    },
+    {
+      "year": 1984,
+      "city": "Luxembourg",
+      "artist": "Herreys",
+      "song": "Diggi-Loo Diggi-Ley",
+      "points": 145
+    },
+    {
+      "year": 1991,
+      "city": "Rome",
+      "artist": "Carola",
+      "song": "Fångad av en stormvind",
+      "points": 146
+    },
+    {
+      "year": 1999,
+      "city": "Jerusalem",
+      "artist": "Charlotte Nilsson",
+      "song": "Take Me to Your Heaven",
+      "points": 163
+    },
+    {
+      "year": 2012,
+      "city": "Baku",
+      "artist": "Loreen",
+      "song": "Euphoria",
+      "points": 372
+    },
+    {
+      "year": 2015,
+      "city": "Vienna",
+      "artist": "Måns Zelmerlöw",
+      "song": "Heroes",
+      "points": 365
+    },
+    {
+      "year": 2023,
+      "city": "Liverpool",
+      "artist": "Loreen",
+      "song": "Tattoo",
+      "points": 583
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1975,
+      "city": "Stockholm"
+    },
+    {
+      "year": 1985,
+      "city": "Gothenburg"
+    },
+    {
+      "year": 1992,
+      "city": "Malmö"
+    },
+    {
+      "year": 2000,
+      "city": "Stockholm"
+    },
+    {
+      "year": 2013,
+      "city": "Malmö"
+    },
+    {
+      "year": 2016,
+      "city": "Stockholm"
+    },
+    {
+      "year": 2024,
+      "city": "Malmö"
+    }
+  ],
+  "images": [
+    "https://s3-eu-north-1.amazonaws.com/py3.visitsweden.com/images/2018-07-05_041957-146932_IBSweb.width-1650.jpg",
+    "https://s3-eu-north-1.amazonaws.com/py3.visitsweden.com/original_images/f1170662-IBSweb.jpg",
+    "https://a.cdn-hotels.com/gdcs/production182/d373/337d925b-277b-4220-96db-4633f58e7475.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SWEDEN-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac125"
+  },
+  "country": {
+    "country_id": "cy",
+    "country_name": "Cyprus"
+  },
+  "maps": "https://cdn.britannica.com/25/183625-050-71AB9343/World-Data-Locator-Map-Cyprus.jpg",
+  "capital": "Nicosia",
+  "area": 3572,
+  "population": 1207359,
+  "participations": 41,
+  "debut": 1981,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://mediaim.expedia.com/destination/1/7813b598a129a566b99c2eb54fea1452.jpg",
+    "https://fotografias.lasexta.com/clipping/cmsimages02/2022/07/02/59B07104-D7D2-4B47-A5AF-9A19E473B070/chipre-idilico-destino-verano_98.jpg?crop=796,448,x82,y0&width=1900&height=1069&optimize=high&format=webply",
+    "https://img2.rtve.es/imagenes/turismo-rural-mundo-chipre/1644262327927.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-CYPRUS-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac11e"
+  },
+  "country": {
+    "country_id": "at",
+    "country_name": "Austria"
+  },
+  "maps": "https://cdn.britannica.com/87/183587-050-379FCD4F/World-Data-Locator-Map-Austria.jpg",
+  "capital": "Vienna",
+  "area": 83871,
+  "population": 8902600,
+  "participations": 57,
+  "debut": 1957,
+  "victories": [
+    {
+      "year": 1966,
+      "city": "Luxembourg",
+      "artist": "Udo Jürgens",
+      "song": "Merci, Chérie",
+      "points": 31
+    },
+    {
+      "year": 2014,
+      "city": "Copenhagen",
+      "artist": "Conchita Wurst",
+      "song": "Rise Like a Phoenix",
+      "points": 290
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1967,
+      "city": "Vienna"
+    },
+    {
+      "year": 2015,
+      "city": "Vienna"
+    }
+  ],
+  "images": [
+    "https://lp-cms-production.imgix.net/2019-06/shutterstock_249139849.jpg",
+    "https://a.cdn-hotels.com/gdcs/production135/d1579/cbe33240-f585-11e8-b8fa-0242ac11000d.jpg",
+    "https://fundacionio.com/wp-content/uploads/2022/02/Austria.png"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-AUSTRIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac127"
+  },
+  "country": {
+    "country_id": "dk",
+    "country_name": "Denmark"
+  },
+  "maps": "https://cdn.britannica.com/27/183627-050-09D018A1/World-Data-Locator-Map-Denmark.jpg",
+  "capital": "Copenhagen",
+  "area": 42924,
+  "population": 5822763,
+  "participations": 53,
+  "debut": 1957,
+  "victories": [
+    {
+      "year": 1963,
+      "city": "London",
+      "artist": "Grethe & Jørgen Ingmann",
+      "song": "Dansevise",
+      "points": 42
+    },
+    {
+      "year": 2000,
+      "city": "Stockholm",
+      "artist": "Olsen Brothers",
+      "song": "Fly on the Wings of Love",
+      "points": 195
+    },
+    {
+      "year": 2013,
+      "city": "Malmö",
+      "artist": "Emmelie de Forest",
+      "song": "Only Teardrops",
+      "points": 281
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1964,
+      "city": "Copenhagen"
+    },
+    {
+      "year": 2001,
+      "city": "Copenhagen"
+    },
+    {
+      "year": 2014,
+      "city": "Copenhagen"
+    }
+  ],
+  "images": [
+    "https://www.copenhagen.com/images/articles/mermaid.jpg",
+    "https://www.state.gov/wp-content/uploads/2018/11/Denmark-2113x1406.jpg",
+    "https://lp-cms-production.imgix.net/2023-07/shutterstock278747150.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-DENMARK-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac12b"
+  },
+  "country": {
+    "country_id": "ge",
+    "country_name": "Georgia"
+  },
+  "maps": "https://cdn.britannica.com/47/183647-050-8CB3191B/World-Data-Locator-Map-Georgia.jpg",
+  "capital": "Tbilisi",
+  "area": 69700,
+  "population": 3720400,
+  "participations": 17,
+  "debut": 2007,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://static01.nyt.com/images/2018/06/17/travel/17hours1/merlin_138493119_dc17f17f-96a2-4487-a9ea-214914926374-superJumbo.jpg",
+    "https://static1.evcdn.net/images/reduction/412924_w-3840_h-2160_q-70_m-crop.jpg",
+    "https://media.traveler.es/photos/618d676ad9a3394010f06134/16:9/w_2560%2Cc_limit/Copy%2520of%2520Zurabi%2520Kartvelishvili%2520-%2520Cultural%2520Monuments%2520-%2520veli%2520tbilisi%2520-%252040934%2520-%25201%2520(Original)%2520(1).jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-GEORGIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac12c"
+  },
+  "country": {
+    "country_id": "de",
+    "country_name": "Germany"
+  },
+  "maps": "https://cdn.britannica.com/48/183648-050-82886FCB/World-Data-Locator-Map-Germany.jpg",
+  "capital": "Berlin",
+  "area": 357022,
+  "population": 83190556,
+  "participations": 69,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1982,
+      "city": "Harrogate",
+      "artist": "Nicole",
+      "song": "Ein bißchen Frieden",
+      "points": 161
+    },
+    {
+      "year": 2010,
+      "city": "Oslo",
+      "artist": "Lena",
+      "song": "Satellite",
+      "points": 246
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1983,
+      "city": "Munich"
+    },
+    {
+      "year": 2011,
+      "city": "Düsseldorf"
+    }
+  ],
+  "images": [
+    "https://www.germany.travel/media/redaktion/staedte_kultur_content/Berlin_Brandenburger_Tor_im_Sonnenuntergang_Leitmotiv_German_Summer_Cities.jpg",
+    "https://lp-cms-production.imgix.net/2021-01/GettyRF_492963464.jpg",
+    "https://www.state.gov/wp-content/uploads/2018/11/Germany-2109x1406.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-GERMANY-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac131"
+  },
+  "country": {
+    "country_id": "il",
+    "country_name": "Israel"
+  },
+  "maps": "https://cdn.britannica.com/71/183671-050-4720EC59/World-Data-Locator-Map-Israel.jpg",
+  "capital": "Jerusalem",
+  "area": 20770,
+  "population": 9173250,
+  "participations": 47,
+  "debut": 1973,
+  "victories": [
+    {
+      "year": 1978,
+      "city": "Paris",
+      "artist": "Izhar Cohen & Alphabeta",
+      "song": "A-Ba-Ni-Bi",
+      "points": 157
+    },
+    {
+      "year": 1979,
+      "city": "Jerusalem",
+      "artist": "Gali Atari & Milk and Honey",
+      "song": "Hallelujah",
+      "points": 125
+    },
+    {
+      "year": 1998,
+      "city": "Birmingham",
+      "artist": "Dana International",
+      "song": "Diva",
+      "points": 172
+    },
+    {
+      "year": 2018,
+      "city": "Lisbon",
+      "artist": "Netta",
+      "song": "Toy",
+      "points": 529
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1979,
+      "city": "Jerusalem"
+    },
+    {
+      "year": 1999,
+      "city": "Jerusalem"
+    },
+    {
+      "year": 2019,
+      "city": "Tel Aviv"
+    }
+  ],
+  "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp954gleZLrAQsqWNAoAdjzGysoLNF3xmGe2lZF1-GmA&s",
+    "https://fotografias.lasexta.com/clipping/cmsimages02/2021/08/10/C45E8A73-FB34-4945-B512-252981C55184/98.jpg?crop=5760,3241,x0,y308&width=1900&height=1069&optimize=high&format=webply",
+    "https://i0.wp.com/www.enlacejudio.com/wp-content/uploads/2019/04/shutterstock_401157517-e1511289289301.jpg?fit=1200%2C800&ssl=1"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-ISRAEL-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac135"
+  },
+  "country": {
+    "country_id": "lu",
+    "country_name": "Luxembourg"
+  },
+  "maps": "https://cdn.britannica.com/93/183693-050-1F7EB60D/World-Data-Locator-Map-Luxembourg.jpg",
+  "capital": "Luxembourg",
+  "area": 2586,
+  "population": 634730,
+  "participations": 39,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1961,
+      "city": "Cannes",
+      "artist": "Jean-Claude Pascal",
+      "song": "Nous les amoureux",
+      "points": 31
+    },
+    {
+      "year": 1965,
+      "city": "Naples",
+      "artist": "France Gall",
+      "song": "Poupée de cire, poupée de son",
+      "points": 32
+    },
+    {
+      "year": 1972,
+      "city": "Edinburgh",
+      "artist": "Vicky Leandros",
+      "song": "Après toi",
+      "points": 128
+    },
+    {
+      "year": 1973,
+      "city": "Luxembourg",
+      "artist": "Anne-Marie David",
+      "song": "Tu te reconnaîtras",
+      "points": 129
+    },
+    {
+      "year": 1983,
+      "city": "Munich",
+      "artist": "Corinne Hermès",
+      "song": "Si la vie est cadeau",
+      "points": 142
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1962,
+      "city": "Luxembourg"
+    },
+    {
+      "year": 1966,
+      "city": "Luxembourg"
+    },
+    {
+      "year": 1973,
+      "city": "Luxembourg"
+    },
+    {
+      "year": 1984,
+      "city": "Luxembourg"
+    }
+  ],
+  "images": [
+    "https://www.visitluxembourg.com/images/Cdxe5xcpg-M/rs:fill:2500:0/cb:/crop:6008:4000:nowe:0:0/gravity:fp:0.5:0.5/aHR0cHM6Ly93d3cudmlzaXRsdXhlbWJvdXJnLmNvbS9maWxlYWRtaW4vdmlzaXRsdXhlbWJvdXJnL1BpY3R1cmVzL1JlaXNlemllbGUvTHV4ZW1idXJnX1N0YWR0L0hlYWRlcl9TbGlkZXIvTHV4ZW1ib3VyZ19DaXR5Xy1fTENUTy5qcGc",
+    "https://cdn.britannica.com/08/178008-050-93B5F493/Alzette-River-city-Luxembourg.jpg",
+    "https://www.luxembourgtravel.lu/fileadmin/_processed_/3/4/csm_Camping_Kohnenhof_Our_6_-_Thomas_Jutzler_01_8d05f07a81.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-LUXEMBOURG-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac136"
+  },
+  "country": {
+    "country_id": "mt",
+    "country_name": "Malta"
+  },
+  "maps": "https://cdn.britannica.com/01/183701-050-5A4CA55B/World-Data-Locator-Map-Malta.jpg",
+  "capital": "Valletta",
+  "area": 316,
+  "population": 514564,
+  "participations": 37,
+  "debut": 1971,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://estaticos-cdn.prensaiberica.es/clip/7a5a265c-580f-4dcf-9e7d-48a5030b1f75_source-aspect-ratio_default_0.jpg",
+    "https://media.vogue.es/photos/5cc74668a6e117370554c189/master/w_1600%2Cc_limit/vogue_news_580137595.jpg",
+    "https://www.tuviajedegrupo.com/wp-content/uploads/2017/04/Malta-tuviajedegrupo-viaje.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-MALTA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac137"
+  },
+  "country": {
+    "country_id": "md",
+    "country_name": "Moldova"
+  },
+  "maps": "https://cdn.britannica.com/09/183709-050-23B3ED20/Moldova.jpg",
+  "capital": "Chișinău",
+  "area": 33243,
+  "population": 2654108,
+  "participations": 20,
+  "debut": 2005,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cl%C4%83direa_fostei_Dume_Or%C4%83%C8%99ene%C8%99ti._Ast%C4%83zi_Prim%C4%83ria_%C8%99i_Consiliul_Municipal_Chi%C8%99in%C4%83u._Foto_3.jpg",
+    "https://deih43ym53wif.cloudfront.net/old-orhei-moldova-shutterstock_1403005664_a46c2ab95c.jpeg",
+    "https://6d6f6c646f7661.ultracdn.net/wp-content/uploads/2023/06/DJI_0463-1920x1080.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-MOLDOVA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac138"
+  },
+  "country": {
+    "country_id": "mc",
+    "country_name": "Monaco"
+  },
+  "maps": "https://cdn.britannica.com/51/2751-050-BCEFDF7C/Monaco-map-cities-boundaries-locator-landmarks.jpg",
+  "capital": "Monaco",
+  "area": 2.02,
+  "population": 39242,
+  "participations": 24,
+  "debut": 1959,
+  "victories": [
+    {
+      "year": 1971,
+      "city": "Dublin",
+      "artist": "Séverine",
+      "song": "Un banc, un arbre, une rue",
+      "points": 128
+    }
+  ],
+  "hosted": [],
+  "images": [
+    "https://www.visitmonaco.com/ImageRepository/PageListe/ebfef823-815b-45ad-b3c0-2339c85e8b0e/Slider/3-shutterstock-427693039.jpg?Width=2500&Height=1250",
+    "https://live.staticflickr.com/761/32891173203_851171074a_h.jpg",
+    "https://media.architecturaldigest.com/photos/60771dd2426049b8809458b4/16:9/w_2560%2Cc_limit/GettyImages-177779735.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-MONACO-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac13c"
+  },
+  "country": {
+    "country_id": "mk",
+    "country_name": "North Macedonia"
+  },
+  "maps": "https://cdn.britannica.com/95/183695-050-7DA0DFF7/World-Data-Locator-Map-North-Macedonia.jpg",
+  "capital": "Skopje",
+  "area": 25713,
+  "population": 2083160,
+  "participations": 22,
+  "debut": 1998,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://www.state.gov/wp-content/uploads/2023/07/shutterstock_1853926873v2.jpg",
+    "https://miro.medium.com/v2/resize:fit:1400/1*jOkRam48LEcMIAmM-KXjRw.jpeg",
+    "https://www.telegraph.co.uk/content/dam/Travel/2016/September/macedonia-kosjak-AP86038133.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-NORTHMACEDONIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac13f"
+  },
+  "country": {
+    "country_id": "pt",
+    "country_name": "Portugal"
+  },
+  "maps": "https://cdn.britannica.com/36/183736-050-D828924C/World-Data-Locator-Map-Portugal.jpg",
+  "capital": "Lisbon",
+  "area": 92090,
+  "population": 10276617,
+  "participations": 56,
+  "debut": 1964,
+  "victories": [
+    {
+      "year": 2017,
+      "city": "Kyiv",
+      "artist": "Salvador Sobral",
+      "song": "Amar pelos dois",
+      "points": 758
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2018,
+      "city": "Lisbon"
+    }
+  ],
+  "images": [
+    "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/09/17/lisboa.jpeg",
+    "https://assets.website-files.com/63e8dd33cd36784546669ed2/63e8e88f3f71273c11464585_Walking-path-leading-to-a-view-on-the-lakes-of-Sete-Cidades.jpg",
+    "https://lp-cms-production.imgix.net/2022-08/Portugal-iStock-1270757406-RFE.jpeg?auto=format&q=75&w=1920"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-PORTUGAL-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac142"
+  },
+  "country": {
+    "country_id": "sm",
+    "country_name": "San Marino"
+  },
+  "maps": "https://cdn.britannica.com/47/183747-050-895FAF22/World-Data-Locator-Map-San-Marino.jpg",
+  "capital": "San Marino",
+  "area": 61,
+  "population": 33931,
+  "participations": 15,
+  "debut": 2008,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://s1.elespanol.com/2019/09/06/viajes/viajes_427219607_133944844_1706x1280.jpg",
+    "https://www.bordersofadventure.com/wp-content/uploads/2017/08/Photo-01-07-2017-21-15-27.jpg",
+    "https://www.bordersofadventure.com/wp-content/uploads/2016/09/San-Marino7.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SANMARINO-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac149"
+  },
+  "country": {
+    "country_id": "ch",
+    "country_name": "Switzerland"
+  },
+  "maps": "https://cdn.britannica.com/68/183768-050-8A75F8FE/World-Data-Locator-Map-Switzerland.jpg",
+  "capital": "Bern",
+  "area": 41285,
+  "population": 8570000,
+  "participations": 66,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1956,
+      "city": "Lugano",
+      "artist": "Lys Assia",
+      "song": "Refrain",
+      "points": 24
+    },
+    {
+      "year": 1988,
+      "city": "Dublin",
+      "artist": "Céline Dion",
+      "song": "Ne partez pas sans moi",
+      "points": 137
+    },
+    {
+      "year": 2024,
+      "city": "Malmö",
+      "artist": "Nemo",
+      "song": "The Code",
+      "points": 591
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1956,
+      "city": "Lugano"
+    },
+    {
+      "year": 1989,
+      "city": "Lausanne"
+    }
+  ],
+  "images": [
+    "https://cdn.britannica.com/89/177889-050-B50F529B/Houses-banks-Aare-River-Switzerland-Bern.jpg",
+    "https://switzerland-tour.com/storage/media/4-ForArticles/swiss-mountains.jpg",
+    "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2023/11/29111159/lauterbrunnen.jpeg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SWITZERLAND-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac14c"
+  },
+  "country": {
+    "country_id": "gb",
+    "country_name": "United Kingdom"
+  },
+  "maps": "https://cdn.britannica.com/84/183784-050-9C0C8C6B/World-Data-Locator-Map-United-Kingdom.jpg",
+  "capital": "London",
+  "area": 242495,
+  "population": 66435600,
+  "participations": 67,
+  "debut": 1957,
+  "victories": [
+    {
+      "year": 1967,
+      "city": "Vienna",
+      "artist": "Sandie Shaw",
+      "song": "Puppet on a String",
+      "points": 47
+    },
+    {
+      "year": 1969,
+      "city": "Madrid",
+      "artist": "Lulu",
+      "song": "Boom Bang-a-Bang",
+      "points": 18
+    },
+    {
+      "year": 1976,
+      "city": "The Hague",
+      "artist": "Brotherhood",
+      "song": "Save Your Kisses for Me",
+      "points": 164
+    },
+    {
+      "year": 1981,
+      "city": "Dublin",
+      "artist": "Bucks Fizz",
+      "song": "Making Your Mind Up",
+      "points": 136
+    },
+    {
+      "year": 1997,
+      "city": "Dublin",
+      "artist": "Katrina and the Waves",
+      "song": "Love Shine a Light",
+      "points": 227
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1960,
+      "city": "London"
+    },
+    {
+      "year": 1963,
+      "city": "London"
+    },
+    {
+      "year": 1968,
+      "city": "London"
+    },
+    {
+      "year": 1972,
+      "city": "Edinburgh"
+    },
+    {
+      "year": 1974,
+      "city": "Brighton"
+    },
+    {
+      "year": 1977,
+      "city": "London"
+    },
+    {
+      "year": 1982,
+      "city": "Harrogate"
+    },
+    {
+      "year": 1998,
+      "city": "Birmingham"
+    },
+    {
+      "year": 2023,
+      "city": "Liverpool"
+    }
+  ],
+  "images": [
+    "https://www.tourist-destinations.com/wp-content/uploads/2011/06/london-2.jpg",
+    "https://www.tripsavvy.com/thmb/IUOs_d0KO5wdaZDW5XRGCEn2zWc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/durdle-door-sunrise-112756955-59691b483df78c57f49fcc71.jpg",
+    "https://i.natgeofe.com/k/50f5107c-eaa3-4c77-b68f-cf95f2b994d4/united-kingdom-highlands.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-UNITEDKINGDOM-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac126"
+  },
+  "country": {
+    "country_id": "cz",
+    "country_name": "Czechia"
+  },
+  "maps": "https://cdn.britannica.com/26/183626-050-842F3B8A/World-Data-Locator-Map-Czech-Republic.jpg",
+  "capital": "Prague",
+  "area": 78866,
+  "population": 10693939,
+  "participations": 13,
+  "debut": 2007,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://cdn.britannica.com/69/99569-050-F226F189/Prague.jpg",
+    "https://www.tripsavvy.com/thmb/DAjHCAKA8xmVANZWcc1Je6-RWnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/view-of-old-bohemian-city-cesky-krumlov--czech-republic-904860710-ff16d735e7d941608aebc5f64cf6b07d.jpg",
+    "https://www.tripsavvy.com/thmb/GytvgkBFajS3WUcD_GNUt7F4_SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/karlovy-vary-street-panorama-view--czech-republic-954274826-d638ce39b2cd4c2b90b770955f7080f2.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-CZECHIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac12a"
+  },
+  "country": {
+    "country_id": "fr",
+    "country_name": "France"
+  },
+  "maps": "https://cdn.britannica.com/42/183642-050-C7D21FE8/World-Data-Locator-Map-France.jpg",
+  "capital": "Paris",
+  "area": 551695,
+  "population": 67076000,
+  "participations": 68,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1958,
+      "city": "Hilversum",
+      "artist": "André Claveau",
+      "song": "Dors, mon amour",
+      "points": 27
+    },
+    {
+      "year": 1960,
+      "city": "London",
+      "artist": "Jacqueline Boyer",
+      "song": "Tom Pillibi",
+      "points": 32
+    },
+    {
+      "year": 1962,
+      "city": "Luxembourg",
+      "artist": "Isabelle Aubret",
+      "song": "Un premier amour",
+      "points": 26
+    },
+    {
+      "year": 1969,
+      "city": "Madrid",
+      "artist": "Frida Boccara",
+      "song": "Un jour, un enfant",
+      "points": 18
+    },
+    {
+      "year": 1977,
+      "city": "London",
+      "artist": "Marie Myriam",
+      "song": "L'oiseau et l'enfant",
+      "points": 136
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1959,
+      "city": "Cannes"
+    },
+    {
+      "year": 1961,
+      "city": "Cannes"
+    },
+    {
+      "year": 1978,
+      "city": "Paris"
+    }
+  ],
+  "images": [
+    "https://www.state.gov/wp-content/uploads/2023/07/shutterstock_667548661v2.jpg",
+    "https://images.ctfassets.net/wv75stsetqy3/5H8g02dSEMDHT2lMSIm2nw/230df7b3796546593cc2997de811d046/France.jpg?q=60&fit=fill&fm=webp",
+    "https://media.cntraveler.com/photos/641bafd0428c1c5485f37616/16:9/w_2580,c_limit/Dinan-france-GettyImages-1155533043.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-FRANCE-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac12e"
+  },
+  "country": {
+    "country_id": "hu",
+    "country_name": "Hungary"
+  },
+  "maps": "https://cdn.britannica.com/63/183663-004-ADE0D44B/World-Data-Locator-Map-Hungary.jpg",
+  "capital": "Budapest",
+  "area": 93028,
+  "population": 9772756,
+  "participations": 17,
+  "debut": 1994,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://media.cntraveller.com/photos/611bf475db797d0116fd5182/16:9/w_2560%2Cc_limit/chainbridge.jpg",
+    "https://cdn.britannica.com/71/95871-050-E7F641C1/statue-king-Saint-Stephen-city-Hungary-Budapest.jpg",
+    "https://havefun.travel/wp-content/uploads/2021/06/National-Parks-in-Hungary-7431752-scaled.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-HUNGARY-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac13a"
+  },
+  "country": {
+    "country_id": "ma",
+    "country_name": "Morocco"
+  },
+  "maps": "https://cdn.britannica.com/13/183713-050-10FFC97F/World-Data-Locator-Map-Morocco.jpg",
+  "capital": "Rabat",
+  "area": 446550,
+  "population": 36910560,
+  "participations": 1,
+  "debut": 1980,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://media.cntraveler.com/photos/65dfc055e781ac22c9a500e9/16:9/w_2560%2Cc_limit/GettyImages-1450546518.jpg",
+    "https://destinia.com/guides/wp-content/uploads/2023/02/ouzoud-waterfalls-nature-morocco.webp",
+    "https://destinia.com/guides/wp-content/uploads/2023/02/desert-of-merzouga-nature-morocco.webp"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-MOROCCO-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac13b"
+  },
+  "country": {
+    "country_id": "nl",
+    "country_name": "Netherlands"
+  },
+  "maps": "https://cdn.britannica.com/19/183719-050-F9C1688D/World-Data-Locator-Map-Netherlands.jpg",
+  "capital": "Amsterdam",
+  "area": 41526,
+  "population": 17400000,
+  "participations": 66,
+  "debut": 1956,
+  "victories": [
+    {
+      "year": 1957,
+      "city": "Frankfurt",
+      "artist": "Corry Brokken",
+      "song": "Net als toen",
+      "points": 31
+    },
+    {
+      "year": 1959,
+      "city": "Cannes",
+      "artist": "Teddy Scholten",
+      "song": "Een beetje",
+      "points": 21
+    },
+    {
+      "year": 1969,
+      "city": "Madrid",
+      "artist": "Lenny Kuhr",
+      "song": "De troubadour",
+      "points": 18
+    },
+    {
+      "year": 1975,
+      "city": "Stockholm",
+      "artist": "Teach-In",
+      "song": "Ding-a-dong",
+      "points": 152
+    },
+    {
+      "year": 2019,
+      "city": "Tel Aviv",
+      "artist": "Duncan Laurence",
+      "song": "Arcade",
+      "points": 498
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1958,
+      "city": "Hilversum"
+    },
+    {
+      "year": 1970,
+      "city": "Amsterdam"
+    },
+    {
+      "year": 1976,
+      "city": "The Hague"
+    },
+    {
+      "year": 1980,
+      "city": "The Hague"
+    },
+    {
+      "year": 2020,
+      "city": "Rotterdam"
+    },
+    {
+      "year": 2021,
+      "city": "Rotterdam"
+    }
+  ],
+  "images": [
+    "https://www.cunard.com/content/dam/cunard/inventory-assets/ports/AMS/AMS.jpg",
+    "https://www.cbd.int/sites/default/files/2022-09/hendrik-kuterman-ryxuv6g5asa-unsplash.jpg",
+    "https://www.pruvo.com/blog/wp-content/uploads/2018/10/flowers-2254234_1920.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-NETHERLANDS-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac13e"
+  },
+  "country": {
+    "country_id": "pl",
+    "country_name": "Poland"
+  },
+  "maps": "https://cdn.britannica.com/35/183735-050-5F8442D3/World-Data-Locator-Map-Poland.jpg",
+  "capital": "Warsaw",
+  "area": 312696,
+  "population": 38386000,
+  "participations": 27,
+  "debut": 1994,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://statemag.state.gov/wp-content/uploads/2023/03/0423pom-1-scaled.jpg",
+    "https://polandshiok.sg/wp-content/uploads/2020/09/biesczady.jpg",
+    "https://its-poland.com/files/services_photos/cbaa99569abdc78902bbd97bf1ab0571.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-POLAND-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac146"
+  },
+  "country": {
+    "country_id": "si",
+    "country_name": "Slovenia"
+  },
+  "maps": "https://cdn.britannica.com/57/183757-050-85F5A0EE/World-Data-Locator-Map-Slovenia.jpg",
+  "capital": "Ljubljana",
+  "area": 20273,
+  "population": 2071252,
+  "participations": 30,
+  "debut": 1993,
+  "victories": [],
+  "hosted": [],
+  "images": [
+    "https://cdn.britannica.com/79/124479-050-DD359499/Ljubljana-Slovenia.jpg",
+    "https://ychef.files.bbci.co.uk/2000x1125/p07b51y0.jpeg",
+    "https://perfecta-travel.com/wp-content/uploads/2023/03/mala-osojnica-bled-slovenia-sunny-day_181624-58952.jpg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SLOVENIA-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac147"
+  },
+  "country": {
+    "country_id": "es",
+    "country_name": "Spain"
+  },
+  "maps": "https://cdn.britannica.com/61/183761-050-F02B165E/World-Data-Locator-Map-Spain.jpg",
+  "capital": "Madrid",
+  "area": 505992,
+  "population": 47351567,
+  "participations": 61,
+  "debut": 1961,
+  "victories": [
+    {
+      "year": 1968,
+      "city": "London",
+      "artist": "Massiel",
+      "song": "La, la, la",
+      "points": 29
+    },
+    {
+      "year": 1969,
+      "city": "Madrid",
+      "artist": "Salomé",
+      "song": "Vivo cantando",
+      "points": 18
+    }
+  ],
+  "hosted": [
+    {
+      "year": 1969,
+      "city": "Madrid"
+    }
+  ],
+  "images": [
+    "https://media.cntraveler.com/photos/636529b1d36379b0d80f679d/2:1/w_2560%2Cc_limit/Madrid_GettyImages-1175211342.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f2/Nature_-_Las_M%C3%A9dulas%2C_Spain.jpg",
+    "https://images.squarespace-cdn.com/content/v1/609d3f1781f4a87463f238cb/1689705687322-R4AVYY0GBQEM03AC24JQ/image-asset.jpeg"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-SPAIN-BLACK.svg"
+},
+{
+  "_id": {
+    "$oid": "6658ade8fa26439c33dac14b"
+  },
+  "country": {
+    "country_id": "ua",
+    "country_name": "Ukraine"
+  },
+  "maps": "https://cdn.britannica.com/82/183782-050-D2CE9388/World-Data-Locator-Map-Ukraine.jpg",
+  "capital": "Kyiv",
+  "area": 603500,
+  "population": 41800000,
+  "participations": 20,
+  "debut": 2003,
+  "victories": [
+    {
+      "year": 2004,
+      "city": "Istanbul",
+      "artist": "Ruslana",
+      "song": "Wild Dances",
+      "points": 280
+    },
+    {
+      "year": 2016,
+      "city": "Stockholm",
+      "artist": "Jamala",
+      "song": "1944",
+      "points": 534
+    },
+    {
+      "year": 2022,
+      "city": "Turin",
+      "artist": "Kalush Orchestra",
+      "song": "Stefania",
+      "points": 464
+    }
+  ],
+  "hosted": [
+    {
+      "year": 2005,
+      "city": "Kyiv"
+    },
+    {
+      "year": 2017,
+      "city": "Kyiv"
+    }
+  ],
+  "images": [
+    "https://cdn.britannica.com/18/194818-050-E7A7A993/view-Kiev-Ukraine.jpg",
+    "https://wownature.in.ua/wp-content/uploads/2021/05/Zakhid_sontsia_na_vershyni_skeli_Sokolyne_oko-2-Ryzhkov-Sergey-scaled.jpg",
+    "https://cdn.sanity.io/images/1f1lcoov/production/40ba43c7e0eb8c1b4f4edf889cf04487f49ebecd-2121x1413.jpg?auto=format&w=1920&q=75&fit=max"
+  ],
+  "flag": "https://localhost:44309/countries/flags/ESC-HEART-UKRAINE-BLACK.svg"
+}]

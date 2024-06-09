@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "6658a21f423d9ddd9304b8be"
+  },
+  "edition": 2019,
+  "country": {
+    "country_id": "il",
+    "country_name": "Israel"
+  },
+  "logo": "https://localhost:44309/years/logos/Logo_ESC2019.jpg",
+  "slogan": "Dare to Dream",
+  "city": "Tel Aviv",
+  "place": "Expo Tel Aviv (International Convention Center)",
+  "stage": "https://localhost:44309/years/stages/Escenario_2019.jpg",
+  "dates": [
+    {
+      "event": "First Semi Final",
+      "date": "2019-05-14"
+    },
+    {
+      "event": "Second Semi Final",
+      "date": "2019-05-16"
+    },
+    {
+      "event": "Grand Final",
+      "date": "2019-05-18"
+    }
+  ],
+  "participants": 41,
+  "winner": {
+    "country": "Netherlands",
+    "artist": "Duncan Laurence",
+    "song": "Arcade",
+    "points": 498
+  }
+},
+{
+  "_id": {
+    "$oid": "6658a21f423d9ddd9304b8bf"
+  },
+  "edition": 2020,
+  "country": {
+    "country_id": "nl",
+    "country_name": "Netherlands"
+  },
+  "logo": "https://localhost:44309/years/logos/Logo_ESC2020.jpg",
+  "slogan": "Open Up",
+  "city": "Rotterdam",
+  "place": "Rotterdam Ahoy",
+  "stage": "https://localhost:44309/years/stages/Escenario_2020.jpg",
+  "dates": [
+    {
+      "event": "First Semi Final",
+      "date": "2020-05-12"
+    },
+    {
+      "event": "Second Semi Final",
+      "date": "2020-05-14"
+    },
+    {
+      "event": "Grand Final",
+      "date": "2020-05-16"
+    }
+  ],
+  "participants": 41,
+  "winner": null
+},
+{
+  "_id": {
+    "$oid": "6658a21f423d9ddd9304b8c2"
+  },
+  "edition": 2023,
+  "country": {
+    "country_id": "gb",
+    "country_name": "United Kingdom"
+  },
+  "logo": "https://localhost:44309/years/logos/Logo_ESC2023.jpg",
+  "slogan": "United By Music",
+  "city": "Liverpool",
+  "place": "Liverpool Arena",
+  "stage": "https://localhost:44309/years/stages/Escenario_2023.jpg",
+  "dates": [
+    {
+      "event": "First Semi Final",
+      "date": "2023-05-09"
+    },
+    {
+      "event": "Second Semi Final",
+      "date": "2023-05-11"
+    },
+    {
+      "event": "Grand Final",
+      "date": "2023-05-13"
+    }
+  ],
+  "participants": 37,
+  "winner": {
+    "country": "Sewden",
+    "artist": "Loreen",
+    "song": "Tattoo",
+    "points": 583
+  }
+},
+{
+  "_id": {
+    "$oid": "6658a21f423d9ddd9304b8c0"
+  },
+  "edition": 2021,
+  "country": {
+    "country_id": "nl",
+    "country_name": "Netherlands"
+  },
+  "logo": "https://localhost:44309/years/logos/Logo_ESC2021.jpg",
+  "slogan": "Open Up",
+  "city": "Rotterdam",
+  "place": "Rotterdam Ahoy",
+  "stage": "https://localhost:44309/years/stages/Escenario_2021.jpg",
+  "dates": [
+    {
+      "event": "First Semi Final",
+      "date": "2021-05-18"
+    },
+    {
+      "event": "Second Semi Final",
+      "date": "2021-05-20"
+    },
+    {
+      "event": "Grand Final",
+      "date": "2021-05-22"
+    }
+  ],
+  "participants": 39,
+  "winner": {
+    "country": "Italy",
+    "artist": "Måneskin",
+    "song": "Zitti e buoni",
+    "points": 524
+  }
+},
+{
+  "_id": {
+    "$oid": "6658a21f423d9ddd9304b8c1"
+  },
+  "edition": 2022,
+  "country": {
+    "country_id": "it",
+    "country_name": "Italy"
+  },
+  "logo": "https://localhost:44309/years/logos/Logo_ESC2022.jpg",
+  "slogan": "Sound of Beauty",
+  "city": "Turin",
+  "place": "PalaOlimpico",
+  "stage": "https://localhost:44309/years/stages/Escenario_2022.jpg",
+  "dates": [
+    {
+      "event": "First Semi Final",
+      "date": "2022-05-10"
+    },
+    {
+      "event": "Second Semi Final",
+      "date": "2022-05-12"
+    },
+    {
+      "event": "Grand Final",
+      "date": "2022-05-14"
+    }
+  ],
+  "participants": 40,
+  "winner": {
+    "country": "UKraine",
+    "artist": "Kalush Orchestra",
+    "song": "Stefania",
+    "points": 631
+  }
+}]

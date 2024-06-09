@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "66550e849363eb8f0fbe8981"
+  },
+  "name": "admin",
+  "email": "admin@infovision.com",
+  "password": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+  "role": "admin",
+  "token": null
+},
+{
+  "_id": {
+    "$oid": "66626aa4a0239b57512a5cb5"
+  },
+  "name": " hola",
+  "password": "b221d9dbb083a7f33428d7c2a3c3198ae925614d70210e28716ccaa7cd4ddb79",
+  "email": "hola@prueba.com",
+  "role": "user",
+  "token": null
+},
+{
+  "_id": {
+    "$oid": "66628a8e9e19559509c5fdb6"
+  },
+  "name": "prueba2",
+  "password": "655e786674d9d3e77bc05ed1de37b4b6bc89f788829f9f3c679e7687b410c89b",
+  "email": "prueba2@prueba.com",
+  "role": "user",
+  "token": null
+},
+{
+  "_id": {
+    "$oid": "6662c500f357ba9c43630145"
+  },
+  "name": "prueba3",
+  "password": "a0189bc70472cd6aa7e91ec7d3842f6201adfa8ffb5fe9cc1db50070b11beadb",
+  "email": "prueba3@prueba.com",
+  "role": "user",
+  "token": null
+},
+{
+  "_id": {
+    "$oid": "666458f800380a1313003ef2"
+  },
+  "name": "prueba4",
+  "password": "3df00c2b0ae163c9607dc992a055f61bca1cfe7a538ffb3fa77f7eab3df9c63d",
+  "email": "prueba4@prueba.com",
+  "role": "user",
+  "token": null
+}]
