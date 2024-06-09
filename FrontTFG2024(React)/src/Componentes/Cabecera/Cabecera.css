@@ -1,0 +1,36 @@
+
+.imagencab{
+    max-height: 70px;
+}
+
+@media (max-width: 768px) {
+    .imagencab{
+        max-height: 90px;
+    }
+}
+
+nav{
+    background-color: #0077b6 !important;
+    width: 100%;
+    color: white;
+}
+
+.cabecera{
+    color: white;
+    margin: 0%;
+    justify-content: space-between;
+}
+
+.nav-link{
+    color: whitesmoke;
+    text-decoration: none;
+    text-align: end;
+}
+
+.navbar-toggler{
+    border: 2px solid white;
+}
+
+.navbar-toggler-icon{
+    background-image: url('../../assets/Images/list.svg');
+}

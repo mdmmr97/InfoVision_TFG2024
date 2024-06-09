@@ -1,0 +1,146 @@
+p.letra {
+    font-size: 16px;
+    text-align: start;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    color: whitesmoke;
+}
+
+.informacion {
+    padding: 10px;
+    background-color: #0077b6;
+    justify-content: center;
+    align-items: center;
+}
+
+.informacion img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10%;
+    object-fit: cover;
+    transform-origin: centercenter;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.informacion h2 {
+    color: whitesmoke;
+    font-size: 50px;
+    font-weight: 600;
+    margin: 10px;
+    padding: 10px;
+}
+
+.informacion h3 {
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: 500;
+    margin: 10px;
+    padding: 10px;
+}
+
+.informacion .lista {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.informacion .lista .list-group-item {
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.list-group-item {
+    background-color: transparent;
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 8px;
+    text-align: left;
+    padding-left: 30px;
+    border: none;
+}
+
+.list-group-item h4{
+    border-bottom: 2px solid #cfe2ff;
+}
+.nav-link{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+    background-color: rgba(204, 226, 255, 0.2);
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: #cfe2ff;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.accordion-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-justify: center;
+    background-color: transparent;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.accordion-button.collapsed{
+    border-color: transparent;
+}
+
+.accordion-button.collapsed{
+    border-color: transparent;
+}
+
+.accordion-button:not(.collapsed){
+    box-shadow: none;
+    border-color: transparent;
+}
+
+.accordion-button::after {
+    margin-left: auto;
+}
+
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+.accordion-header{
+    margin: 0%;
+    padding-top: 10px;
+    border-radius: 10px 10px 0 0;
+    border: 2px solid #cfe2ff;
+    background-color: #cfe2ff;
+}
+
+.accordion-body{
+    padding: 10px;
+    border-radius: 0 0 10px 10px;
+    border: 2px solid #cfe2ff;
+}
+
+.accordion-item{
+    border: 1px solid transparent;
+    background-color: transparent;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.accordion{
+    margin: 20px 0;
+    margin-bottom: 15px;
+
+}

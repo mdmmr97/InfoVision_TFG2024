@@ -1,0 +1,20 @@
+#scroll-up {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 70px;
+    height: 70px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    padding: 0;
+    border-radius: 20%;
+    background-color: transparent;
+}
+
+#scroll-up svg {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 50px;
+}

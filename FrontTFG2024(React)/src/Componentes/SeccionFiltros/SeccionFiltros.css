@@ -1,0 +1,29 @@
+.botonfiltros{
+    background-color: #cfe2ff;
+    border: 1px solid #cfe2ff;
+    color: #000;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    width: 200px;
+    font-size: 20px;
+}
+
+.botonfiltros:hover{
+    background-color: #0077b6;
+    border: 1px solid #cfe2ff;
+    color: whitesmoke;
+}
+
+.card-body{
+ margin: 20px 15px;
+}
+
+.card-body h2{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+#multiCollapseExample2{
+    width: 100%;
+}

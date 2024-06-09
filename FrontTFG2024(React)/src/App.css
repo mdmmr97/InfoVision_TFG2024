@@ -1,0 +1,276 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Rubik', sans-serif;
+}
+
+.row {
+  --bs-gutter-x: 0 !important;
+  width: 100%;
+}
+
+header {
+  margin-bottom: 135px;
+  font-size: 20px;
+  font-weight: 700;
+  height: auto;
+}
+
+.home .row.entrada, .desarrollo{
+  justify-content: center;
+  align-items: center;
+  text-align: start !important;
+  background-color: #cce2ff;
+}
+
+.home .row.registrarse{
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #0077b6;
+}
+
+.home .row .btn.btn-primary{
+  background-color: #cce2ff;
+  border: 2px solid #0077b6;
+  margin: 0%;
+}
+
+.home .row a{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+
+.home .row.infohome{
+  justify-content: center;
+  align-items: center;
+  background-color: #0077b6;
+}
+
+.home .row.infohome h2{
+  color: whitesmoke;
+  font-size: 40px;
+  font-weight: 700;
+  margin: 10px;
+  padding: 10px;
+}
+
+.home .col{
+  padding: 20px;
+}
+
+.home p{
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+
+.alturaLista{
+  min-height: 100vh;
+}
+
+.parallax {
+  height: 84vh;
+}
+
+@media (max-width: 768px) {
+  .parallax {
+    height: 88vh;
+  }
+  header {
+    margin-bottom: 110px;
+  }
+}
+
+.parallax.country {
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 80% 80%;
+}
+
+.country .titulo{
+  height: 100%;
+  background-color: rgba(204, 226, 255, 0.4);
+  display: flex;
+  justify-content: start;
+  align-items: end;
+}
+
+.country .titulo h1{
+  font-size: 60px;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  color: #000;
+  text-align: start;
+}
+
+.country .titulo span{
+  font-weight: 700;
+}
+
+.parallax.year {
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% 90%;
+}
+
+.year .titulo{
+  height: 100%;
+  background-color: rgba(204, 226, 255, 0.4);
+  display: flex;
+  justify-content: start;
+  align-items: end;
+}
+
+.year .titulo h1{
+  font-size: 60px;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  color: #000;
+  text-align: start;
+  margin-top: 10px;
+}
+
+.year .titulo span{
+  font-weight: 700;
+}
+
+.parallax.song {
+  background-attachment: fixed;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: 100% 90%;
+}
+
+.song .titulo{
+  height: 100%;
+  background-color: rgba(204, 226, 255, 0.2);
+  display: flex;
+  justify-content: start;
+  align-items: end;
+}
+
+.song .titulo h1{
+  font-size: 60px;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  padding: 10px;
+  color: whitesmoke;
+  text-align: start;
+  background-color: rgba(0, 119, 182, 0.5);
+  border-radius: 20%
+}
+
+.song .titulo span{
+  font-weight: 700;
+}
+
+.deslizante {
+  width: 100%;
+  background-color: #cce2ff;
+  font-size: 36px;
+}
+
+.listasong h3{
+  color: black;
+  font-size: 40px;
+  font-weight: 500;
+  margin: 10px;
+  padding: 10px;
+}
+
+.table>:not(caption)>*>* {
+  font-size: 14px;
+  border-bottom: 1px solid #ddd;
+  height: 100%;
+  text-align: center;
+  color: antiquewhite;
+  background-color: transparent;
+  font-weight: 400;
+}
+
+.table>thead>tr{
+  background-color: rgba(204, 226, 255, 0.2);
+}
+
+.user{
+  color: black;
+}
+
+.user p{
+  font-size: 20px;
+  font-weight: 500;
+  text-align: start;
+  margin-left: 20px;
+}
+
+.user span{
+  font-size: 20px;
+  font-weight: 700;
+}
+
+
+.user .table>:not(caption)>*>*{
+  background-color: #0077b6
+}
+
+.user .table>thead>tr{
+  background-color: rgba(204, 226, 255, 0.2);
+}
+
+.formulario{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+label.form-label{
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.form-control{
+  width: 300px;
+  height: 40px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.btn.btn-primary{
+  background-color: #0077b6;
+  border: 1px solid #cfe2ff;
+  color: whitesmoke;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  width: 200px;
+  font-size: 20px;
+}
+
+.btn.btn-primary:hover{
+  background-color: #cfe2ff;
+  border: 1px solid #0077b6;
+  color: black;
+}
+
+footer {
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+

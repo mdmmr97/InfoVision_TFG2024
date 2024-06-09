@@ -1,0 +1,49 @@
+.informacion {
+  padding: 10px;
+  background-color: #0077b6;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo h2{
+  color: whitesmoke;
+  font-size: 50px;
+  font-weight: 600;
+  margin: 10px;
+  padding: 10px;
+}
+
+.informacion h3{
+  color: whitesmoke;
+  font-size: 40px;
+  font-weight: 500;
+  margin: 10px;
+  padding: 10px;
+}
+
+.informacion .lista{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.informacion .lista ul{
+  padding: 0;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  margin-right: 55px;
+}
+
+.informacion li{
+  color: whitesmoke;
+  font-size: 20px;
+  margin: 8px;
+  text-align: left;
+  padding-left: 30px;
+}
+
+.carousel{
+  width: 100%;
+  margin: 20px;
+  padding: 10px;
+}
