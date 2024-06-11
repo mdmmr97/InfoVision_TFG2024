@@ -20,7 +20,7 @@ const Home = () => {
                     <p>Registrate de forma gratuita y disfruta nuestra pagina</p>
                 </Col>
                 <Col xs={6}>
-                    <Button><Link to="/registrarse">Registrarse</Link></Button>
+                    <Button><Link to="/registrar">Registrarse</Link></Button>
                 </Col>
             </Row>
             <Row className="mt-5 py-3 infohome">
