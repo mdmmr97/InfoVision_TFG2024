@@ -37,7 +37,7 @@ export const useDecades = (Yearslist) => {
                 };
             }
             acc[decade].list.push(element); // Añade el año a la década correspondiente
-            acc[decade].list.toSorted((a, b) => b.edition - a.edition); // Ordena los años de forma descendente
+            acc[decade].list.sort((a, b) => b.edition - a.edition); // Ordena los años de forma descendente
             return acc; 
         }, {}); // Objeto vacío que se va a devolver
     }
