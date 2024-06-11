@@ -15,6 +15,7 @@ export const useYears= () => {
     }
 
     useEffect(GetYears, [])
+    Yearslist.sort((a, b) => b.edition - a.edition);
     return {search, Yearslist}
 }
 export default useYears;
