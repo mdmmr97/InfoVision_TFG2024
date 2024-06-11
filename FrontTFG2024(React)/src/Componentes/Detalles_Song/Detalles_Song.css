@@ -142,5 +142,8 @@ p.letra {
 .accordion{
     margin: 20px 0;
     margin-bottom: 15px;
+}
 
+.tab-content{
+    margin-bottom: 30px;
 }
