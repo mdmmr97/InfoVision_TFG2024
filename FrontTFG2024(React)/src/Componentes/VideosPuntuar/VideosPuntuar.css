@@ -5,6 +5,13 @@
     margin-top: 20px;
 }
 
+h3 {
+    font-size: 40px;
+    font-weight: 500;
+    margin: 10px;
+    padding: 10px;
+}
+
 label.form-label{
     color: black;
     font-size: 20px;
@@ -31,7 +38,7 @@ label.form-label{
     border: 1px solid #cfe2ff;
     color: whitesmoke;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     width: 200px;
     font-size: 20px;
 }
