@@ -61,7 +61,7 @@ const Detalles_Song = (props) => {
                     <ListGroup.Item><strong>Posicion:</strong> {Song.place_contest}</ListGroup.Item>
                 </ListGroup>
             </Col>
-            <Row>
+            <Row className='align-items-start'>
                 <Col xs={12} md={6}>
                     <Accordion >
                         <Accordion.Item eventKey="0">
@@ -115,7 +115,7 @@ const Detalles_Song = (props) => {
                 <Tabs
                     defaultActiveKey="profile"
                     id="justify-tab-example"
-                    className="mb-3 text-center song"
+                    className="mb-4 text-center song"
                     justify
                 >   
                     {nfp === null ? null :
