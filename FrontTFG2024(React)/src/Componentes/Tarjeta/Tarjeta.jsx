@@ -16,7 +16,7 @@ const Tarjeta = (props) => {
                 <div className="card-img-overlay text-bg-dark song">
                     <h5 className="card-title-song">{props.title}</h5>
                     <div>
-                        <div className='row'><p className='col-2 contenido artist'>Artista: </p><p className='col-9 m-0 contenido'>{props.performer}</p></div>
+                        <div className='row m-1'><p className='col-2 p-0 contenido artist'>Artista: </p><p className='col-9 m-0 contenido'>{props.performer}</p></div>
                         <p className="card-text">Pais: {props.country} </p>
                         <p className="card-text">Año: {props.year} </p>
                     </div>
